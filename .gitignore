@@ -1,0 +1,6 @@
+.idea
+node_modules
+npm-debug.log
+/node_modules/
+/frontend/node_modules/
+/haoi18_server/node_modules/
